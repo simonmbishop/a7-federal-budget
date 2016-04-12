@@ -48,6 +48,8 @@ h1 strong {
 .button:hover {
   background-color: #e74c3c;
   cursor: pointer;
+  width: 23.5%;
+  -webkit-transition: all 0.5s ease;
 }
 
 h3 {
